@@ -18,10 +18,8 @@ public class TeoriaArrays {
         }
 
         System.out.println("\n Recorrido con FOR-EACH:");
-        int contador = 1;
         for (int numero : numeros) {
-            System.out.println("Elemento " + contador + ": " + numero);
-            contador++;
+            System.out.println("Elemento: " + numero);;
         }
 
         System.out.println("\n Recorrido con WHILE:");
