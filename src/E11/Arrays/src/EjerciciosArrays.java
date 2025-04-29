@@ -77,7 +77,21 @@ Pide al usuario un número y muestra si está presente en un array, y en qué po
         if (!encontrado) {
             System.out.println("El número " + valorBuscado + " no se encuentra en el array.");
         }
+       /*5. Ordenar el array
+Declara un array con números desordenados y ordénalo de menor a mayor utilizando
+Arrays.sort().*/
+
+        int [] numberEj5 = new int[4];
+        for (int x = 0; x < numberEj5.length; x++){
+            System.out.println("Elemento " + (x + 1) + ": ");
+            numberEj5[x] = ejerarrays.nextInt();
+        }
+        Arrays.sort(numberEj5);
+        System.out.println("El array ordenado de menor a mayor es: "+Arrays.toString(numberEj5)+" .");
     }
+
+
+
 }
 
 
