@@ -42,5 +42,8 @@ public class TeoriaArrays {
         // Sumar con stream
         int sumaStream = Arrays.stream(numeros).sum();
         System.out.println("Suma con STREAM: " + sumaStream);
+
+
     }
 }
+

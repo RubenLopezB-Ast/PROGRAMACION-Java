@@ -52,14 +52,7 @@ Dado un array de enteros, muestra el valor más alto y el más bajo.*/
         System.out.println("El valor mínimo es: " + minimo);
 /*4. Buscar un elemento
 Pide al usuario un número y muestra si está presente en un array, y en qué posición.*/
-        int[] numerosEj4 = new int[5];
-
-        numerosEj4[0] = 1;
-        numerosEj4[1] = 2;
-        numerosEj4[2] = 3;
-        numerosEj4[3] = 4;
-        numerosEj4[4] = 5;
-
+        int[] numerosEj4 = {1,2,3,4,5};
 
         System.out.println("Introduce un número para buscar en el array:");
         int valorBuscado = ejerarrays.nextInt();
