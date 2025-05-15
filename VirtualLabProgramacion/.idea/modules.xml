@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/VirtualLabProgramacion.iml" filepath="$PROJECT_DIR$/.idea/VirtualLabProgramacion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dia140525/dia140525.iml" filepath="$PROJECT_DIR$/dia140525/dia140525.iml" />
+    </modules>
+  </component>
+</project>
