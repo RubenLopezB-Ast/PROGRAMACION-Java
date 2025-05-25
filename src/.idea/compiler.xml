@@ -6,12 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="mapas" />
+        <module name="matricesRecomendadoEjer" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ejercicioMatrices2" target="23" />
       <module name="ejerciciosMatrices" target="23" />
+      <module name="mapas" target="23" />
     </bytecodeTargetLevel>
   </component>
 </project>
