@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/VirtualLabProgramacion.iml" filepath="$PROJECT_DIR$/.idea/VirtualLabProgramacion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dia110625/dia110625.iml" filepath="$PROJECT_DIR$/dia110625/dia110625.iml" />
       <module fileurl="file://$PROJECT_DIR$/dia140525/dia140525.iml" filepath="$PROJECT_DIR$/dia140525/dia140525.iml" />
     </modules>
   </component>
